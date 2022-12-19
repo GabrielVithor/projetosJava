@@ -8,4 +8,4 @@
 
 3. **herança**: permitindo que classes filhas herdem propriedade e mítodos das super classes para que não seja necessário a duplicidade de códigos
 
-4. **polimorfismo** :permitindo que operações sejam realizados em objetos destintos, desde que estes estejam abaixo ou no mesmo nível da hierarquia determinada no código.
+4. **polimorfismo** :permitindo que operações sejam realizados em objetos distintos, desde que estes estejam abaixo ou no mesmo nível da hierarquia determinada no código.
